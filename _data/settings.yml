@@ -1,6 +1,6 @@
 menu:
 #- {name: 'people', url: '/people'}
-  - {name: 'CV', url: '/cv'}
+- {name: 'CV', url: '/cv'}
 - {name: 'Publications', url: '/publications'}
 #- {name: 'courses', url: '/courses'}
 - {name: '`Contact', url: '/contact'}
